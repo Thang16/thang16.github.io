@@ -18,6 +18,11 @@ img {
 max-width: 100%;
 display: block;
 margin: auto;
+filter: grayscale(100%);
+}
+
+img:hover {
+filter: grayscale(0%);
 }
 
 img:hover {
