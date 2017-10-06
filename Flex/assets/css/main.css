@@ -44,6 +44,10 @@ color: black;
 z-index: 21;
 }
 
+.nav:hover {
+color: black;
+}
+
 .nav2 {
 font-family: 'Source Serif Pro', serif;
 position: fixed;
@@ -53,6 +57,10 @@ bottom: 45px;
 line-height: 1.2vw;
 color: black;
 z-index: 22;
+}
+
+span:hover {
+color: grey;
 }
 
 h1 {
