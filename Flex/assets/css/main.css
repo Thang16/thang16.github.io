@@ -24,9 +24,13 @@ img:hover {
 }
 
 #rectangle {
-max-width: 250px;
+width: 250px;
 height: 100vh;
 background: white;
+position: fixed;
+top:0px;
+left:0px;
+z-index:20;
 }
 
 .nav {
@@ -37,6 +41,7 @@ padding-left: 5vw;
 bottom: 105px;
 line-height: 1.8vw;
 color: black;
+z-index: 21;
 }
 
 .nav2 {
@@ -47,6 +52,7 @@ padding-left: 5vw;
 bottom: 45px;
 line-height: 1.2vw;
 color: black;
+z-index: 22;
 }
 
 h1 {
@@ -56,6 +62,7 @@ padding-left: 5vw;
 top: 40px;
 line-height: 2.2vw;
 color: black;
+z-index:23;
 }
 
 .col1of4 img {
