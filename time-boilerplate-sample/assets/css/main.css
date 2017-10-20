@@ -1,0 +1,106 @@
+* {
+  box-sizing: border-box;
+}
+
+
+/* Start here */
+
+img {
+box-shadow: 30px 30px 123px -27px rgba(0,0,0,0.33);
+-webkit-animation: rotation 6s infinite linear;
+}
+
+.flower1 {
+width: 450px;
+top: -120px;
+left: -120px;
+position:fixed;
+transform: rotate(45deg);
+/*    -webkit-animation: rotation 60s infinite linear;*/
+}
+
+.flower2 {
+width: 450px;
+top: -120px;
+right: -120px;
+position: fixed;
+transform: rotate(45deg);
+}
+
+.flower3 {
+width: 450px;
+bottom: -120px;
+left: -120px;
+position: fixed;
+transform: rotate(45deg);
+}
+
+.flower4 {
+width: 450px;
+bottom: -120px;
+right: -120px;
+position: fixed;
+transform: rotate(45deg);
+}
+
+.flowerMiddle {
+width: 470px;
+top: 21%;
+left: 33.5%;
+position: fixed;
+}
+
+@-webkit-keyframes rotation {
+from {
+-webkit-transform: rotate(0deg);
+}
+to {
+-webkit-transform: rotate(359deg);
+}
+}
+
+.time {
+font-size: 55px;
+text-align: center;
+font-family: 'Yeseva One', cursive;
+font-style: italic;
+position: fixed;
+top: 10%;
+left: 45%;
+}
+
+.FaceBook {
+
+
+/*body {
+background-color: white;
+}
+
+.time {
+    font-size: 100px;
+    text-align:center;
+    text-transform: uppercase;
+    
+}
+
+.image_swap {
+    margin: auto;
+    width: 600px;
+}
+
+.image_swap img {
+    max-width: 100%;
+}
+
+.message_swap {
+    margin: auto;
+    width: 600px;
+}
+
+.andrew {
+    font-size: 200px;
+    text-align:center;
+    text-transform: uppercase;
+    display: none;
+}*/
+    

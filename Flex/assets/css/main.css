@@ -43,10 +43,11 @@ font-family: 'Source Serif Pro', serif;
 position: fixed;
 font-size: 1.3vw;
 padding-left: 5vw;
-bottom: 105px;
+bottom: 65px;
 line-height: 1.8vw;
 color: black;
 z-index: 21;
+cursor: pointer;
 }
 
 .nav:hover {
@@ -58,10 +59,11 @@ font-family: 'Source Serif Pro', serif;
 position: fixed;
 font-size: 1vw;
 padding-left: 5vw;
-bottom: 45px;
+bottom: 25px;
 line-height: 1.2vw;
 color: black;
 z-index: 22;
+cursor: pointer;
 }
 
 span:hover {
