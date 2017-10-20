@@ -6,6 +6,7 @@
 /* Start here */
 
 img {
+max-width: 100%;
 box-shadow: 30px 30px 123px -27px rgba(0,0,0,0.33);
 -webkit-animation: rotation 6s infinite linear;
 }
