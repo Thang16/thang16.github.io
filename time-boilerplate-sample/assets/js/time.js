@@ -52,7 +52,7 @@ $(document).ready(function() {
     $('body').attr('class', timeClass);
 
     // Add format
-    $('.time').html(moment().format('h:mm'));
+    $('.time').html(moment().format('h:mm:ss A'));
   };
 
   var intervalId = setInterval(update, 100);
