@@ -5,9 +5,8 @@ $(document).ready(function() {
 
 $( ".button" ).click(function() {
   $( ".text" ).toggleClass( "show" );
-  $( ".flowerMiddle" ).toggleClass( "hide" );
-    $( ".smallflowerMiddle" ).toggleClass( "hide" );
-    $( ".messages" ).toggleClass( "hide" );
+  $( ".flowersMiddle" ).toggleClass( "hide" );
+    $( ".smallflowersMiddle" ).toggleClass( "hide" );
     $( ".time" ).toggleClass( "hide" );
 });
 

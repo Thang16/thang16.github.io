@@ -39,7 +39,16 @@ visibility: visible;
 }
 */
 
+/*
+body.m0.h6.pm .flower1, body.m0.h7.pm .flower1, body.m0.h7.pm .flower1, body.m0.h9.pm .flower1, body.m0.h10.pm .flower1, body.m0.h11.pm .flower1, body.m0.h12.am .flower10, body.m0.h1.am .flower10, body.m0.h2.am .flower10, body.m0.h3.am .flower10, body.m0.h4.am .flower10, body.m0.h5.am .flower10, body.m0.h12.pm .flower11, body.m0.h1.pm .flower11, body.m0.h2.pm .flower11, body.m0.h3.pm .flower11,body.m0.h4.pm .flower11,body.m0.h5.pm .flower11, body.m0 .flower12, body.m0 .flower2, body.m0 .flower20, body.m0 .flower21, body.m0 .flower22, body.m0 .flower3, body.m0 .flower30, body.m0 .flower31, body.m0 .flower32, body.m0 .flower4, body.m0 .flower40, body.m0 .flower41, body.m0 .flower42 {
+animation: grow 2s infinite linear;
+transform: translate3d(0, 0, 0);
+backface-visibility: hidden;
+}
+*/
 
+
+/*
 body.m0 .flower1 {
 animation: grow 2s infinite linear;
 transform: translate3d(0, 0, 0);
@@ -63,19 +72,29 @@ animation: grow 2s infinite linear;
 transform: translate3d(0, 0, 0);
 backface-visibility: hidden;
 }
+*/
 
+/*
 body.m0 .flower5, body.m0 .flower6, body.m0 .flower7, body.m0 .flower8 {
 display: block;
 animation: fadefade 2s infinite linear;
 }
+*/
 
-body.m0 .flowerMiddle {
+body.m0.h12.am .flower50, body.m0.h12.am .flower60, body.m0.h12.am .flower70, body.m0.h12.am .flower80, body.m0.h1.am .flower50, body.m0.h1.am .flower60, body.m0.h1.am .flower70, body.m0.h1.am .flower80, body.m0.h2.am .flower50, body.m0.h2.am .flower60, body.m0.h2.am .flower70, body.m0.h2.am .flower80, body.m0.h3.am .flower50, body.m0.h3.am .flower60, body.m0.h3.am .flower70, body.m0.h3.am .flower80, body.m0.h4.am .flower50, body.m0.h4.am .flower60, body.m0.h4.am .flower70, body.m0.h4.am .flower80, body.m0.h5.am .flower50, body.m0.h5.am .flower60, body.m0.h5.am .flower70, body.m0.h5.am .flower80, body.m0.h6.am .flower5, body.m0.h6.am .flower6, body.m0.h6.am .flower7, body.m0.h6.am .flower8, body.m0.h7.am .flower5, body.m0.h7.am .flower6, body.m0.h7.am .flower7, body.m0.h7.am .flower8, body.m0.h8.am .flower5, body.m0.h8.am .flower6, body.m0.h8.am .flower7, body.m0.h8.am .flower8, body.m0.h9.am .flower5, body.m0.h9.am .flower6, body.m0.h9.am .flower7, body.m0.h9.am .flower8, body.m0.h10.am .flower5, body.m0.h10.am .flower6, body.m0.h10.am .flower7, body.m0.h10.am .flower8, body.m0.h11.am .flower5, body.m0.h11.am .flower6, body.m0.h11.am .flower7, body.m0.h11.am .flower8, body.m0.h12.pm .flower51, body.m0.h12.pm .flower61, body.m0.h12.pm .flower71, body.m0.h12.pm .flower81, body.m0.h1.pm .flower51, body.m0.h1.pm .flower61, body.m0.h1.pm .flower71, body.m0.h1.pm .flower81, body.m0.h2.pm .flower51, body.m0.h2.pm .flower61, body.m0.h2.pm .flower71, body.m0.h2.pm .flower81, body.m0.h3.pm .flower51, body.m0.h3.pm .flower61, body.m0.h3.pm .flower71, body.m0.h3.pm .flower81, body.m0.h4.pm .flower51, body.m0.h4.pm .flower61, body.m0.h4.pm .flower71, body.m0.h4.pm .flower81, body.m0.h5.pm .flower51, body.m0.h5.pm .flower61, body.m0.h5.pm .flower71, body.m0.h5.pm .flower81, body.m0.h6.pm .flower52, body.m0.h6.pm .flower62, body.m0.h6.pm .flower72, body.m0.h6.pm .flower82, body.m0.h7.pm .flower52, body.m0.h7.pm .flower62, body.m0.h7.pm .flower72, body.m0.h7.pm .flower82, body.m0.h8.pm .flower52, body.m0.h8.pm .flower62, body.m0.h8.pm .flower72, body.m0.h8.pm .flower82, body.m0.h9.pm .flower52, body.m0.h9.pm .flower62, body.m0.h9.pm .flower72, body.m0.h9.pm .flower82, body.m0.h10.pm .flower52, body.m0.h10.pm .flower62, body.m0.h10.pm .flower72, body.m0.h10.pm .flower82, body.m0.h11.pm .flower52, body.m0.h11.pm .flower62, body.m0.h11.pm .flower72, body.m0.h11.pm .flower82 {
+display: block;
+animation: fadefade 2s infinite linear;
+}
+
+/*
+body.m0 .flowerMiddle,  {
 animation: grow2 2s infinite linear;
 }
 
 body.m0 .smallflowerMiddle {
 animation: grow 2s infinite linear;
 }
+*/
 
 /*
 body.s31 .flower5, body.s31 .flower6, body.s31 .flower7, body.s31 .flower8, body.s2 .flower5, body.s2 .flower6, body.s2 .flower7, body.s2 .flower8 {
@@ -100,11 +119,11 @@ transition: 3s ease;
 */
 
 @keyframes fadefade {
-    0%{opacity: 0; transform: scale(1.2)}
+    0%{opacity: 0; transform: scale(1)}
     25%{opacity: 0.5; transform: scale(1.1)}
-    50%{opacity: 1; transform: scale(1.)}
+    50%{opacity: 1; transform: scale(1.2)}
     75%{opacity: 0.5; transform: scale(1.1)}
-    100%{opacity: 0; transform: scale(1.2)}
+    100%{opacity: 0; transform: scale(1)}
 }
 
 @keyframes fadefadef {
@@ -125,9 +144,118 @@ transition: 3s ease;
     100%{transform: scale(1.15)}
 }
 
-@keyframes vibrate {
-2%{transform:translate(0, 0) rotate(4.5deg)}4%{transform:translate(0, 0) rotate(1.5deg)}6%{transform:translate(0, 0) rotate(-6.5deg)}8%{transform:translate(0, 0) rotate(-4.5deg)}10%{transform:translate(0, 0) rotate(-3.5deg)}12%{transform:translate(0, 0) rotate(-2.5deg)}14%{transform:translate(0, 0) rotate(5.5deg)}16%{transform:translate(0, 0) rotate(-2.5deg)}18%{transform:translate(0, 0) rotate(2.5deg)}20%{transform:translate(0, 0) rotate(-4.5deg)}22%{transform:translate(0, 0) rotate(-6.5deg)}24%{transform:translate(0, 0) rotate(-3.5deg)}26%{transform:translate(0, 0) rotate(-6.5deg)}28%{transform:translate(0, 0) rotate(-6.5deg)}30%{transform:translate(0, 0) rotate(7.5deg)}32%{transform:translate(0, 0) rotate(-3.5deg)}34%{transform:translate(0, 0) rotate(-1.5deg)}36%{transform:translate(0, 0) rotate(-6.5deg)}38%{transform:translate(0, 0) rotate(-1.5deg)}40%{transform:translate(0, 0) rotate(-4.5deg)}42%{transform:translate(0, 0) rotate(4.5deg)}44%{transform:translate(0, 0) rotate(-4.5deg)}46%{transform:translate(0, 0) rotate(3.5deg)}48%{transform:translate(0, 0) rotate(7.5deg)}50%{transform:translate(0, 0) rotate(7.5deg)}52%{transform:translate(0, 0) rotate(3.5deg)}54%{transform:translate(0, 0) rotate(-1.5deg)}56%{transform:translate(0, 0) rotate(-3.5deg)}58%{transform:translate(0, 0) rotate(-6.5deg)}60%{transform:translate(0, 0) rotate(7.5deg)}62%{transform:translate(0, 0) rotate(5.5deg)}64%{transform:translate(0, 0) rotate(2.5deg)}66%{transform:translate(0, 0) rotate(.5deg)}68%{transform:translate(0, 0) rotate(7.5deg)}70%{transform:translate(0, 0) rotate(7.5deg)}72%{transform:translate(0, 0) rotate(.5deg)}74%{transform:translate(0, 0) rotate(1.5deg)}76%{transform:translate(0, 0) rotate(5.5deg)}78%{transform:translate(0, 0) rotate(3.5deg)}80%{transform:translate(0, 0) rotate(2.5deg)}82%{transform:translate(0, 0) rotate(2.5deg)}84%{transform:translate(0, 0) rotate(-1.5deg)}86%{transform:translate(0, 0) rotate(-5.5deg)}88%{transform:translate(0, 0) rotate(-2.5deg)}90%{transform:translate(0, 0) rotate(4.5deg)}92%{transform:translate(0, 0) rotate(-4.5deg)}94%{transform:translate(0, 0) rotate(3.5deg)}96%{transform:translate(0, 0) rotate(3.5deg)}98%{transform:translate(0, 0) rotate(.5deg)}0%,100%{transform:translate(0, 0) rotate(0)}
+
+.flowers div {
+display: none;
 }
+
+.flowersMiddle div {
+display: none;
+}
+
+.smallflowersMiddle div {
+display: none;
+}
+
+body.h12.am .flower10, body.h12.am .flower20, body.h12.am .flower30, body.h12.am .flower40, body.h12.am .flowerMiddle0, body.h12.am .smallflowerMiddle0, body.h12.am .flower50, body.h12.am .flower60, body.h12.am .flower70, body.h12.am .flower80 {
+display: block;
+}
+
+body.h1.am .flower10, body.h1.am .flower20, body.h1.am .flower30, body.h1.am .flower40, body.h1.am .flowerMiddle0, body.h1.am .smallflowerMiddle0, body.h1.am .flower50, body.h1.am .flower60, body.h1.am .flower70, body.h1.am .flower80 {
+display: block;
+}
+
+body.h2.am .flower10, body.h2.am .flower20, body.h2.am .flower30, body.h2.am .flower40, body.h2.am .flowerMiddle0, body.h2.am .smallflowerMiddle0, body.h2.am .flower50, body.h2.am .flower60, body.h2.am .flower70, body.h2.am .flower80 {
+display: block;
+}
+
+body.h3.am .flower10, body.h3.am .flower20, body.h3.am .flower30, body.h3.am .flower40, body.h3.am .flowerMiddle0, body.h3.am .smallflowerMiddle0, body.h3.am .flower50, body.h3.am .flower60, body.h3.am .flower70, body.h3.am .flower80 {
+display: block;
+}
+
+body.h4.am .flower10, body.h4.am .flower20, body.h4.am .flower30, body.h4.am .flower40, body.h3.am .flowerMiddle0, body.h3.am .smallflowerMiddle0, body.h4.am .flower50, body.h4.am .flower60, body.h4.am .flower70, body.h4.am .flower80 {
+display: block;
+}
+
+body.h5.am .flower10, body.h5.am .flower20, body.h5.am .flower30, body.h5.am .flower40, body.h5.am .flowerMiddle0, body.h5.am .smallflowerMiddle0, body.h5.am .flower50, body.h5.am .flower60, body.h5.am .flower70, body.h5.am .flower80 {
+display: block;
+}
+
+body.h6.am .flower1, body.h6.am .flower2, body.h6.am .flower3, body.h6.am .flower4, body.h6.am .flowerMiddle, body.h6.am .smallflowerMiddle, body.h6.am .flower5, body.h6.am .flower6, body.h6.am .flower7, body.h6.am .flower8 {
+display: block;
+}
+
+body.h7.am .flower1, body.h7.am .flower2, body.h7.am .flower3, body.h7.am .flower4, body.h7.am .flowerMiddle, body.h7.am .smallflowerMiddle, body.h7.am .flower5, body.h7.am .flower6, body.h7.am .flower7, body.h7.am .flower8 {
+display: block;
+}
+
+body.h8.am .flower1, body.h8.am .flower2, body.h8.am .flower3, body.h8.am .flower4, body.h8.am .flowerMiddle, body.h8.am .smallflowerMiddle, body.h8.am .flower5, body.h8.am .flower6, body.h8.am .flower7, body.h8.am .flower8 {
+display: block;
+}
+
+body.h9.am .flower1, body.h9.am .flower2, body.h9.am .flower3, body.h9.am .flower4 , body.h9.am .flowerMiddle, body.h9.am .smallflowerMiddle, body.h9.am .flower5, body.h9.am .flower6, body.h9.am .flower7, body.h9.am .flower8 {
+display: block;
+}
+
+body.h10.am .flower1, body.h10.am .flower2, body.h10.am .flower3, body.h10.am .flower4, body.h10.am .flowerMiddle, body.h10.am .smallflowerMiddle, body.h10.am .flower5, body.h10.am .flower6, body.h10.am .flower7, body.h10.am .flower8 {
+display: block;
+}
+
+body.h11.am .flower1, body.h11.am .flower2, body.h11.am .flower3, body.h11.am .flower4, body.h11.am .flowerMiddle, body.h11.am .smallflowerMiddle, body.h11.am .flower5, body.h11.am .flower6, body.h11.am .flower7, body.h11.am .flower8 {
+display: block;
+}
+
+body.h12.pm .flower11, body.h12.pm .flower21, body.h12.pm .flower31, body.h12.pm .flower41, body.h12.pm .flowerMiddle1, body.h12.pm .smallflowerMiddle1, body.h12.pm .flower51, body.h12.pm .flower61, body.h12.pm .flower71, body.h12.pm .flower81 {
+display: block;
+}
+
+body.h1.pm .flower11, body.h1.pm .flower21, body.h1.pm .flower31, body.h1.pm .flower41, body.h1.pm .flowerMiddle1, body.h1.pm .smallflowerMiddle1, body.h1.pm .flower51, body.h1.pm .flower61, body.h1.pm .flower71, body.h1.pm .flower81 {
+display: block;
+}
+
+body.h2.pm .flower11, body.h2.pm .flower21, body.h2.pm .flower31, body.h2.pm .flower41, body.h2.pm .flowerMiddle1, body.h2.pm .smallflowerMiddle1, body.h2.pm .flower51, body.h2.pm .flower61, body.h2.pm .flower71, body.h2.pm .flower81 {
+display: block;
+}
+
+body.h3.pm .flower11, body.h3.pm .flower21, body.h3.pm .flower31, body.h3.pm .flower41, body.h3.pm .flowerMiddle1, body.h3.pm .smallflowerMiddle1, body.h3.pm .flower51, body.h3.pm .flower61, body.h3.pm .flower71, body.h3.pm .flower81 {
+display: block;
+}
+
+body.h4.pm .flower11, body.h4.pm .flower21, body.h4.pm .flower31, body.h4.pm .flower41, body.h4.pm .flowerMiddle1, body.h4.pm .smallflowerMiddle1, body.h4.pm .flower51, body.h4.pm .flower61, body.h4.pm .flower71, body.h4.pm .flower81 {
+display: block;
+}
+
+body.h5.pm .flower11, body.h5.pm .flower21, body.h5.pm .flower31, body.h5.pm .flower41, body.h5.pm .flowerMiddle1, body.h5.pm .smallflowerMiddle1, body.h5.pm .flower51, body.h5.pm .flower61, body.h5.pm .flower71, body.h5.pm .flower81 {
+display: block;
+}
+
+body.h6.pm .flower12, body.h6.pm .flower22, body.h6.pm .flower32, body.h6.pm .flower42, body.h6.pm .flowerMiddle2, body.h6.pm .smallflowerMiddle2 {
+display: block;
+}
+
+body.h7.pm .flower12, body.h7.pm .flower22, body.h7.pm .flower32, body.h7.pm .flower42, body.h7.pm .flowerMiddle2, body.h7.pm .smallflowerMiddle2, body.h7.pm .flower52, body.h7.pm .flower62, body.h7.pm .flower72, body.h7.pm .flower82 {
+display: block;
+}
+
+body.h8.pm .flower12, body.h8.pm .flower22, body.h8.pm .flower32, body.h8.pm .flower42, body.h8.pm .flowerMiddle2, body.h8.pm .smallflowerMiddle2, body.h8.pm .flower52, body.h8.pm .flower62, body.h8.pm .flower72, body.h8.pm .flower82 {
+display: block;
+}
+
+body.h9.pm .flower12, body.h9.pm .flower22, body.h9.pm .flower32, body.h9.pm .flower42, body.h9.pm .flowerMiddle2, body.h9.pm .smallflowerMiddle2, body.h9.pm .flower52, body.h9.pm .flower62, body.h9.pm .flower72, body.h9.pm .flower82 {
+display: block;
+}
+
+body.h10.pm .flower12, body.h10.pm .flower22, body.h10.pm .flower32, body.h10.pm .flower42, body.h10.pm .flowerMiddle2, body.h10.pm .smallflowerMiddle2, body.h10.pm .flower52, body.h10.pm .flower62, body.h10.pm .flower72, body.h10.pm .flower82 {
+display: block;
+}
+
+body.h11.pm .flower12, body.h11.pm .flower22, body.h11.pm .flower32, body.h11.pm .flower42, body.h11.pm .flowerMiddle2, body.h11.pm .smallflowerMiddle2, body.h11.pm .flower52, body.h11.pm .flower62, body.h11.pm .flower72, body.h11.pm .flower82 {
+display: block;
+}
+
+
+
+
 
 body.h12.am {
 background-color: black;
@@ -515,9 +643,11 @@ visibility: hidden;
 }
 */
 
+/*
 body.h0.am .button, body.h1.am .button, body.h2.am .button, body.h3.am .button, body.h4.am .button, body.h5.am .button, body.h4.pm .button, body.h5.pm .button, body.h6.pm .button, body.h7.pm .button, body.h8.pm .button, body.h9.pm .button, body.h10.pm .button, body.h11.pm .button {
 color: white;
 }
+*/
 
 
 /*body.oddS .flower2 {

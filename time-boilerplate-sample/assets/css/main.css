@@ -13,7 +13,7 @@ img {
 max-width: 100%;
 }
 
-.flower1 {
+.flower1, .flower10, .flower11, .flower12 {
 width: 370px;
 top: -120px;
 left: -120px;
@@ -21,7 +21,7 @@ position:fixed;
 animation: rotation 60s infinite linear;
 }
 
-.flower2 {
+.flower2, .flower20, .flower21, .flower22 {
 width: 370px;
 top: -120px;
 right: -120px;
@@ -29,7 +29,7 @@ position: fixed;
 animation: rotation 60s infinite linear;
 }
 
-.flower3 {
+.flower3, .flower30, .flower31, .flower32 {
 width: 370px;
 bottom: -120px;
 left: -120px;
@@ -38,7 +38,7 @@ position: fixed;
 animation: rotation 60s infinite linear;
 }
 
-.flower4 {
+.flower4, .flower40, .flower41, .flower42 {
 width: 370px;
 bottom: -120px;
 right: -120px;
@@ -47,7 +47,7 @@ position: fixed;
 animation: rotation 60s infinite linear;
 }
 
-.flower5 {
+.flower5, .flower50, .flower51, .flower52 {
 display: none;
 width: 230px;
 top: -115px;
@@ -55,7 +55,7 @@ left: 42%;
 position: fixed;
 }
 
-.flower6 {
+.flower6, .flower60, .flower61, .flower62 {
 display: none;
 width: 230px;
 top: 290px;
@@ -63,7 +63,7 @@ right: -115px;
 position: fixed;
 }
 
-.flower7 {
+.flower7, .flower70, .flower71, .flower72 {
 display: none;
 width: 230px;
 bottom: -115px;
@@ -71,7 +71,7 @@ right: 42%;
 position: fixed;
 }
 
-.flower8 {
+.flower8, .flower80, .flower81, .flower82 {
 display: none;
 width: 230px;
 top: 290px;
@@ -79,7 +79,11 @@ left: -115px;
 position: fixed;
 }
 
-.flowerMiddle {
+.flowersMiddle {
+
+}
+
+.flowerMiddle, .flowerMiddle0, .flowerMiddle1, .flowerMiddle2 {
 width: 520px;
 top: 18%;
 left: 32%;
@@ -185,12 +189,16 @@ position: fixed;
 animation: fade2 3s infinite linear;
 }
 
-.flowerMiddle.hide {
+.flowersMiddle.hide {
 opacity: 0;
 transition: opacity 1s;
 }
 
-.smallflowerMiddle {
+.smallflowersMiddle {
+
+}
+
+.smallflowerMiddle, .smallflowerMiddle0, .smallflowerMiddle1, .smallflowerMiddle2 {
 width: 250px;
 top: 34.5%;
 left: 41.2%;
@@ -201,7 +209,7 @@ opacity: 1;
 transition: opacity 1s;
 }
 
-.smallflowerMiddle.hide {
+.smallflowersMiddle.hide {
 opacity: 0;
 transition: opacity 1s;
 }
