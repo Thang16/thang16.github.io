@@ -275,27 +275,6 @@ opacity: 0;
 transition: opacity 0.2s;
 }
 
-/*
-.messages {
-text-align: center;
-font-family: 'Josefin Slab', serif;
-font-size: 27px;
-left: 30%;
-top: 45%;
-position: fixed;
-}
-
-.messages.hide {
-opacity: 0;
-transition: opacity 1s;
-}
-*/
-
-.m-0, .m-1, .m-2, .m-3, .m-4, .m-5, .m-16, .m-18, .m-19, .m-20, .m-21, .m-22, .m-23 {
-color: white;
-text-align: center;
-}
-
 .button {
 position: absolute;
 left: 47%;
@@ -352,15 +331,6 @@ transition: opacity 1s ease;
 color: white;
 text-align: center;
 }
-/*
-.text-0, .text-1, .text-2, .text-3, .text-4, .text-5, .text-6, .text-7, .text-8, .text-9, .text-10, .text-11, .text-12, .text-13, .text-14, .text-15, .text-16, .text-18, .text-19, .text-20, .text-21, .text-22, .text-23 {
-display: none;
-}
-
-.text-17 {
-display: block;
-}
-*/
 
 .dash {
 border-top: solid black 1.5px;
@@ -372,37 +342,3 @@ justify-content: center;
 text-align: center;
 align-content: center;
 }
-
-
-/*body {
-background-color: white;
-}
-
-.time {
-    font-size: 100px;
-    text-align:center;
-    text-transform: uppercase;
-    
-}
-
-.image_swap {
-    margin: auto;
-    width: 600px;
-}
-
-.image_swap img {
-    max-width: 100%;
-}
-
-.message_swap {
-    margin: auto;
-    width: 600px;
-}
-
-.andrew {
-    font-size: 200px;
-    text-align:center;
-    text-transform: uppercase;
-    display: none;
-}*/
-    
